@@ -1,16 +1,28 @@
-# media_authentication
+# Social Media Authentication
 
-A new Flutter project.
 
-## Getting Started
+An online shopping app built with Dart and Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ 
+Project AboutThis project enhances app security and user access by integrating Google and iOS login authentication methods. These added login options provide an alternative and secure means for users to access the application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages used:
+- google_sign_in
+- firebase
+- cupertino icons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## screenshots
+
+
+## Login Screen
+![](lib/images/login_screen.jpeg)
+
+![](lib/images/after_login.jpeg)
+
+## Google Integration
+![](lib/images/google.jpeg)
+
+## Profile Screen
+![](lib/images/profile.jpeg)
+
